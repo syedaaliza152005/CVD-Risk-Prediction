@@ -136,13 +136,3 @@ Replace `app.py` with the actual application filename if necessary. Ensure that 
 
 CardioCare is an academic and educational project, not a medically validated diagnostic system. Its predictions should not be used as a substitute for professional medical advice, diagnosis, or treatment.
 
-## Project Team
-
-**B.Tech in Data Science**  
-MGM University  
-Chhatrapati Sambhajinagar, Maharashtra, India  
-Academic Year: 2026–2027
-
-- Aliza Syeda
-- Sakshi Chilka
-- Prerna Taur
